@@ -1,10 +1,10 @@
-package com.example.demo2;
-
-import androidx.appcompat.app.AppCompatActivity;
+package com.gargprabhav.calculator2022;
 
 import android.os.Bundle;
 import android.view.View;
 import android.widget.TextView;
+
+import androidx.appcompat.app.AppCompatActivity;
 
 public class MainActivity extends AppCompatActivity {
 

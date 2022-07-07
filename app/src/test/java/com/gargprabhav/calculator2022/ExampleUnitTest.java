@@ -1,4 +1,4 @@
-package com.example.demo2;
+package com.gargprabhav.calculator2022;
 
 import org.junit.Test;
 
